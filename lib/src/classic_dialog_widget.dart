@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_animated_dialog/flutter_animated_dialog.dart';
+import 'package:flutter_animated_dialog_updated/flutter_animated_dialog.dart';
 
 ///Single selection callback of list dialog
 typedef OnSingleSelectionCallback = void Function(int selectedIndex);
